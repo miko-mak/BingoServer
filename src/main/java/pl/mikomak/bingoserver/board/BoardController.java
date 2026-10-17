@@ -19,12 +19,12 @@ public class BoardController {
 
     @GetMapping(value = "/api/board/today")
     public Board getTodayBoard() {
-        return boardService.getTodayBoard();
+        return this.boardService.getTodayBoard();
     }
 
     @GetMapping(value = "/api/board/{date}")
     public Board getBoardByDate(@PathVariable LocalDate date) {
-        Optional<Board> optionalBoard = boardService.getBoardByDate(date);
+        Optional<Board> optionalBoard = this.boardService.getBoardByDate(date);
         if (optionalBoard.isEmpty()) {
             throw new ResponseStatusException(HttpStatus.NOT_FOUND, "Board not found");
         }
