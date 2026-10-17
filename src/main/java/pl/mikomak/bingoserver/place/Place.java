@@ -7,7 +7,7 @@ import org.springframework.data.annotation.Id;
 
 @Document(collection = "places")
 public class Place {
-    @JsonProperty("_id")
+    @JsonProperty("id")
     @Id
     public @Nullable String id;
     public String name;

@@ -9,20 +9,19 @@ import java.util.List;
 @Document(collection = "boards")
 public class Board {
     @Id
-    private final String id;
+    private final String date;
     private final List<Place> places;
 
-    public Board(String id, List<Place> places) {
-        this.id = id;
+    public Board(String date, List<Place> places) {
+        this.date = date;
         this.places = places;
     }
 
-    public String getId() {
-        return this.id;
+    public String getDate() {
+        return this.date;
     }
 
     public List<Place> getPlaces() {
         return this.places;
     }
-
 }
