@@ -13,11 +13,16 @@ public class Board {
     private final List<Place> places;
 
     public Board(String id, List<Place> places) {
-        this.places = places;
         this.id = id;
+        this.places = places;
+    }
+
+    public String getId() {
+        return this.id;
     }
 
     public List<Place> getPlaces() {
         return this.places;
     }
+
 }
