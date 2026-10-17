@@ -1,24 +1,24 @@
 package pl.mikomak.bingoserver.place;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
 import org.jspecify.annotations.Nullable;
-import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.data.annotation.Id;
 
-@Document
+@Document(collection = "places")
 public class Place {
+    @JsonProperty("_id")
     @Id
     public @Nullable String id;
     public String name;
     public double lat;
     public double lon;
-    public double radiusMeters;
 
     public Place() {}
 
-    public Place(String name, double lat, double lon, double radiusMeters) {
+    public Place(String name, double lat, double lon) {
         this.name = name;
         this.lat = lat;
         this.lon = lon;
-        this.radiusMeters = radiusMeters;
     }
 }
