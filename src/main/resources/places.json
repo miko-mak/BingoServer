@@ -1,476 +1,681 @@
 [
   {
+    "id": "dworzec-gdansk-glowny",
+    "name": "Dworzec PKP Gdańsk Główny",
+    "lat": 54.35564348681012,
+    "lon": 18.644546903071603,
+    "radiusMetres": 100
+  },
+  {
     "id": "gora-gradowa",
     "name": "Góra Gradowa",
-    "lat": 54.357758,
-    "lon": 18.640164
+    "lat": 54.357875560961325,
+    "lon": 18.64021637034175,
+    "radiusMetres": 150
+  },
+  {
+    "id": "dlugi-targ",
+    "name": "Długi Targ",
+    "lat": 54.34844487680146,
+    "lon": 18.65406532615105,
+    "radiusMetres": 80
+  },
+  {
+    "id": "ratusz-glownego-miasta",
+    "name": "Ratusz Głównego Miasta",
+    "lat": 54.34897259022005,
+    "lon": 18.652630313960692,
+    "radiusMetres": 50
+  },
+  {
+    "id": "muzeum-narodowe",
+    "name": "Muzeum Narodowe",
+    "lat": 54.345657380970714,
+    "lon": 18.646941322923887,
+    "radiusMetres": 60
+  },
+  {
+    "id": "teatr-szekspirowski",
+    "name": "Teatr Szekspirowski",
+    "lat": 54.348371428827626,
+    "lon": 18.64760756950601,
+    "radiusMetres": 60
+  },
+  {
+    "id": "fontanna-neptuna",
+    "name": "Fontanna Neptuna",
+    "lat": 54.34861942731428,
+    "lon": 18.65323554049719,
+    "radiusMetres": 25
+  },
+  {
+    "id": "brama-wyzynna",
+    "name": "Brama Wyżynna",
+    "lat": 54.35024426751224,
+    "lon": 18.64659369449646,
+    "radiusMetres": 40
   },
   {
     "id": "forum-gdansk",
     "name": "Forum Gdańsk",
-    "lat": 54.35038,
-    "lon": 18.643513
+    "lat": 54.34953766394774,
+    "lon": 18.643433520666623,
+    "radiusMetres": 100
+  },
+  {
+    "id": "stacja-skm-gdansk-srodmiescie",
+    "name": "Stacja SKM Gdańsk Śródmieście",
+    "lat": 54.34648287068248,
+    "lon": 18.644666809657174,
+    "radiusMetres": 60
   },
   {
     "id": "dworzec-pks",
     "name": "Dworzec PKS",
     "lat": 54.356395,
-    "lon": 18.643136
-  },
-  {
-    "id": "pzl",
-    "name": "Plac Zebrań Ludowych",
-    "lat": 54.360626,
-    "lon": 18.640367
-  },
-  {
-    "id": "elektrykow",
-    "name": "Ulica Elektryków",
-    "lat": 54.364562,
-    "lon": 18.648288
-  },
-  {
-    "id": "molo-brzezno",
-    "name": "Molo w Brzeźnie",
-    "lat": 54.414428,
-    "lon": 18.625238
-  },
-  {
-    "id": "potok-oliwski",
-    "name": "Ujście Potoku Oliwskiego",
-    "lat": 54.424908,
-    "lon": 18.600302
-  },
-  {
-    "id": "ergo-arena",
-    "name": "Ergo Arena",
-    "lat": 54.425898,
-    "lon": 18.578606
-  },
-  {
-    "id": "wzgorze-dolina-elfow",
-    "name": "Wzgórze Doliny Elfów",
-    "lat": 54.403641,
-    "lon": 18.551836
-  },
-  {
-    "id": "zoo-gdansk",
-    "name": "ZOO Gdańsk",
-    "lat": 54.413815,
-    "lon": 18.53355
-  },
-  {
-    "id": "so-bysewo",
-    "name": "Stanowisko obserwacyjne Bysewo",
-    "lat": 54.376232,
-    "lon": 18.464098
-  },
-  {
-    "id": "lotnisko-gdansk",
-    "name": "Lotnisko Gdańsk",
-    "lat": 54.383162,
-    "lon": 18.464082
-  },
-  {
-    "id": "olivia-star",
-    "name": "Olivia Star",
-    "lat": 54.403369,
-    "lon": 18.576674
-  },
-  {
-    "id": "park-oliwski",
-    "name": "Park Oliwski",
-    "lat": 54.41157,
-    "lon": 18.563702
-  },
-  {
-    "id": "stadion-gdansk",
-    "name": "Polsat Plus Arena",
-    "lat": 54.389512,
-    "lon": 18.640188
-  },
-  {
-    "id": "manhattan-gdansk",
-    "name": "CH Manhattan",
-    "lat": 54.377749,
-    "lon": 18.607075
-  },
-  {
-    "id": "metropolia-gdansk",
-    "name": "Galeria Metropolia",
-    "lat": 54.383619,
-    "lon": 18.605888
-  },
-  {
-    "id": "baltycka-gdansk",
-    "name": "Galeria Bałtycka",
-    "lat": 54.382745,
-    "lon": 18.598906
-  },
-  {
-    "id": "plaza-gdansk-stogi",
-    "name": "Plaża w Stogach",
-    "lat": 54.375398,
-    "lon": 18.730793
-  },
-  {
-    "id": "brama-wyzynna",
-    "name": "Brama Wyżynna",
-    "lat": 54.34993,
-    "lon": 18.64652
+    "lon": 18.643136,
+    "radiusMetres": 80
   },
   {
     "id": "katownia-wieza-wiezienna",
     "name": "Katownia i Wieża Więzienna",
     "lat": 54.3499,
-    "lon": 18.64695
-  },
-  {
-    "id": "zlota-brama",
-    "name": "Złota Brama",
-    "lat": 54.3497,
-    "lon": 18.64804
+    "lon": 18.64695,
+    "radiusMetres": 40
   },
   {
     "id": "dom-uphagena",
     "name": "Dom Uphagena",
     "lat": 54.34923,
-    "lon": 18.64928
+    "lon": 18.64928,
+    "radiusMetres": 30
   },
   {
     "id": "ulica-dluga",
     "name": "Ulica Długa",
     "lat": 54.3493,
-    "lon": 18.65034
-  },
-  {
-    "id": "ratusz-glownego-miasta",
-    "name": "Ratusz Głównego Miasta",
-    "lat": 54.34889,
-    "lon": 18.65264
+    "lon": 18.65034,
+    "radiusMetres": 120
   },
   {
     "id": "dwor-artusa",
     "name": "Dwór Artusa",
     "lat": 54.34887,
-    "lon": 18.65347
-  },
-  {
-    "id": "dlugi-targ",
-    "name": "Długi Targ",
-    "lat": 54.3484,
-    "lon": 18.65416
+    "lon": 18.65347,
+    "radiusMetres": 40
   },
   {
     "id": "zielona-brama",
     "name": "Zielona Brama",
     "lat": 54.34792,
-    "lon": 18.65568
+    "lon": 18.65568,
+    "radiusMetres": 40
   },
   {
-    "id": "teatr-szekspirowski",
-    "name": "Teatr Szekspirowski",
-    "lat": 54.3482,
-    "lon": 18.6532
+    "id": "zlota-brama",
+    "name": "Złota Brama",
+    "lat": 54.3497,
+    "lon": 18.64804,
+    "radiusMetres": 30
   },
   {
     "id": "dlugie-pobrzeze",
     "name": "Długie Pobrzeże",
     "lat": 54.34921,
-    "lon": 18.65664
+    "lon": 18.65664,
+    "radiusMetres": 120
   },
   {
     "id": "zuraw",
     "name": "Żuraw",
     "lat": 54.3505,
-    "lon": 18.6576
+    "lon": 18.6576,
+    "radiusMetres": 50
   },
   {
     "id": "bazylika-mariacka",
     "name": "Bazylika Mariacka",
     "lat": 54.34985,
-    "lon": 18.65325
+    "lon": 18.65325,
+    "radiusMetres": 70
   },
   {
     "id": "ulica-mariacka",
     "name": "Ulica Mariacka",
     "lat": 54.35,
-    "lon": 18.6552
+    "lon": 18.6552,
+    "radiusMetres": 80
   },
   {
     "id": "kosciol-sw-katarzyny",
     "name": "Kościół św. Katarzyny",
     "lat": 54.3541,
-    "lon": 18.65133
+    "lon": 18.65133,
+    "radiusMetres": 50
   },
   {
     "id": "wielki-mlyn",
     "name": "Wielki Młyn",
     "lat": 54.354,
-    "lon": 18.65
+    "lon": 18.65,
+    "radiusMetres": 50
   },
   {
     "id": "nmm-olowianka",
-    "name": "Muzeum Morskie",
+    "name": "Narodowe Muzeum Morskie",
     "lat": 54.35104,
-    "lon": 18.659
-  },
-  {
-    "id": "dworzec-gdansk-glowny",
-    "name": "Dworzec Gdańsk Główny",
-    "lat": 54.3561,
-    "lon": 18.6475
-  },
-  {
-    "id": "politechnika-gdanska",
-    "name": "Politechnika Gdańska",
-    "lat": 54.37088,
-    "lon": 18.61352
-  },
-  {
-    "id": "opera-baltycka",
-    "name": "Opera Bałtycka",
-    "lat": 54.3726,
-    "lon": 18.6254
-  },
-  {
-    "id": "twierdza-wisloujscie",
-    "name": "Twierdza Wisłoujście",
-    "lat": 54.39579,
-    "lon": 18.67927
-  },
-  {
-    "id": "westerplatte-pomnik",
-    "name": "Pomnik na Westerplatte",
-    "lat": 54.40603,
-    "lon": 18.67599
-  },
-  {
-    "id": "katedra-oliwska",
-    "name": "Katedra Oliwska",
-    "lat": 54.41099,
-    "lon": 18.55878
-  },
-  {
-    "id": "palac-opatow",
-    "name": "Pałac Opatów",
-    "lat": 54.41109,
-    "lon": 18.56021
-  },
-  {
-    "id": "fontanna-neptuna",
-    "name": "Fontanna Neptuna",
-    "lat": 54.34869,
-    "lon": 18.65311
-  },
-  {
-    "id": "ecs",
-    "name": "Europejskie Centrum Solidarności",
-    "lat": 54.36134,
-    "lon": 18.64899
+    "lon": 18.659,
+    "radiusMetres": 80
   },
   {
     "id": "muzeum-ii-wojny-swiatowej",
-    "name": "Muzeum II WŚ",
+    "name": "Muzeum II Wojny Światowej",
     "lat": 54.35617,
-    "lon": 18.65973
+    "lon": 18.65973,
+    "radiusMetres": 100
   },
   {
     "id": "hala-targowa",
     "name": "Hala Targowa",
     "lat": 54.35277,
-    "lon": 18.65205
+    "lon": 18.65205,
+    "radiusMetres": 70
   },
   {
     "id": "filharmonia-baltycka",
-    "name": "Filharmonia Bałtycka",
+    "name": "Polska Filharmonia Bałtycka",
     "lat": 54.3525,
-    "lon": 18.65987
+    "lon": 18.65987,
+    "radiusMetres": 60
   },
   {
     "id": "soldek",
     "name": "SS Sołdek",
     "lat": 54.35145,
-    "lon": 18.65863
+    "lon": 18.65863,
+    "radiusMetres": 60
   },
   {
     "id": "laznia-csw",
-    "name": "Łaźnia CSW",
+    "name": "Centrum Sztuki Współczesnej",
     "lat": 54.34168,
-    "lon": 18.65813
+    "lon": 18.65813,
+    "radiusMetres": 60
   },
   {
     "id": "kosciol-sw-piotra-i-pawla",
     "name": "Kościół św. Piotra i Pawła",
     "lat": 54.34521,
-    "lon": 18.65062
-  },
-  {
-    "id": "muzeum-narodowe",
-    "name": "Muzeum Narodowe",
-    "lat": 54.34546,
-    "lon": 18.64693
+    "lon": 18.65062,
+    "radiusMetres": 50
   },
   {
     "id": "kosciol-sw-trojcy",
-    "name": "Kościół św. Trójcy",
+    "name": "Kościół Świętej Trójcy",
     "lat": 54.34578,
-    "lon": 18.64747
-  },
-  {
-    "id": "wzgorze-pacholek",
-    "name": "Wzgórze Pachołek",
-    "lat": 54.41165,
-    "lon": 18.55074
-  },
-  {
-    "id": "uniwersytet-gdanski",
-    "name": "Uniwersytet Gdański",
-    "lat": 54.39765,
-    "lon": 18.57264
-  },
-  {
-    "id": "park-orunski",
-    "name": "Park Oruński",
-    "lat": 54.32196,
-    "lon": 18.62518
-  },
-  {
-    "id": "pomnik-poleglych-stoczniowcow",
-    "name": "Pomnik Poległych Stoczniowców",
-    "lat": 54.36053,
-    "lon": 18.64903
-  },
-  {
-    "id": "brama-nr-2-stoczni",
-    "name": "Brama nr 2 Stoczni",
-    "lat": 54.36059,
-    "lon": 18.64983
+    "lon": 18.64747,
+    "radiusMetres": 50
   },
   {
     "id": "baszta-labedz",
     "name": "Baszta Łabędź",
     "lat": 54.3534,
-    "lon": 18.65807
+    "lon": 18.65807,
+    "radiusMetres": 30
   },
   {
     "id": "pomnik-jana-iii-sobieskiego",
     "name": "Pomnik Jana III Sobieskiego",
     "lat": 54.35209,
-    "lon": 18.64848
+    "lon": 18.64848,
+    "radiusMetres": 25
   },
   {
     "id": "pomnik-heweliusza",
-    "name": "Pomnik Heweliusza",
+    "name": "Pomnik Jana Heweliusza",
     "lat": 54.35412,
-    "lon": 18.64882
+    "lon": 18.64882,
+    "radiusMetres": 25
   },
   {
     "id": "wielka-zbrojownia",
     "name": "Wielka Zbrojownia",
     "lat": 54.35067,
-    "lon": 18.64925
+    "lon": 18.64925,
+    "radiusMetres": 40
   },
   {
     "id": "dom-schopenhauera",
     "name": "Dom Schopenhauera",
     "lat": 54.35053,
-    "lon": 18.65224
+    "lon": 18.65224,
+    "radiusMetres": 25
   },
   {
     "id": "brama-mariacka",
     "name": "Brama Mariacka",
     "lat": 54.3494,
-    "lon": 18.65676
+    "lon": 18.65676,
+    "radiusMetres": 30
   },
   {
     "id": "brama-chlebnicka",
     "name": "Brama Chlebnicka",
     "lat": 54.34868,
-    "lon": 18.65617
+    "lon": 18.65617,
+    "radiusMetres": 30
   },
   {
     "id": "kosciol-sw-jana",
     "name": "Kościół św. Jana",
     "lat": 54.3519,
-    "lon": 18.65638
+    "lon": 18.65638,
+    "radiusMetres": 40
   },
   {
     "id": "kaplica-krolewska",
     "name": "Kaplica Królewska",
     "lat": 54.35029,
-    "lon": 18.6537
+    "lon": 18.6537,
+    "radiusMetres": 40
   },
   {
     "id": "kosciol-sw-brygidy",
     "name": "Kościół św. Brygidy",
     "lat": 54.35451,
-    "lon": 18.6521
+    "lon": 18.6521,
+    "radiusMetres": 50
   },
   {
     "id": "ratusz-starego-miasta",
     "name": "Ratusz Starego Miasta",
     "lat": 54.35395,
-    "lon": 18.64806
+    "lon": 18.64806,
+    "radiusMetres": 40
   },
   {
     "id": "brama-nizinna",
     "name": "Brama Nizinna",
     "lat": 54.34011,
-    "lon": 18.64746
+    "lon": 18.64746,
+    "radiusMetres": 40
   },
   {
     "id": "nowy-ratusz",
     "name": "Nowy Ratusz",
     "lat": 54.35247,
-    "lon": 18.6453
-  },
-  {
-    "id": "park-reagana",
-    "name": "Park Reagana",
-    "lat": 54.41465,
-    "lon": 18.60576
+    "lon": 18.6453,
+    "radiusMetres": 50
   },
   {
     "id": "brama-swietojanska",
     "name": "Brama Świętojańska",
     "lat": 54.35147,
-    "lon": 18.65775
-  },
-  {
-    "id": "latarnia-nowy-port",
-    "name": "Latarnia Nowy Port",
-    "lat": 54.40778,
-    "lon": 18.66389
-  },
-  {
-    "id": "falowiec",
-    "name": "Falowiec",
-    "lat": 54.40833,
-    "lon": 18.59667
+    "lon": 18.65775,
+    "radiusMetres": 30
   },
   {
     "id": "brama-stagiewna",
     "name": "Brama Stągiewna",
     "lat": 54.34734,
-    "lon": 18.65995
+    "lon": 18.65995,
+    "radiusMetres": 30
   },
   {
     "id": "zlota-kamienica",
     "name": "Złota Kamienica",
     "lat": 54.34868,
-    "lon": 18.6538
+    "lon": 18.6538,
+    "radiusMetres": 25
   },
   {
     "id": "kosciol-sw-barbary",
     "name": "Kościół św. Barbary",
     "lat": 54.34798,
-    "lon": 18.66375
+    "lon": 18.66375,
+    "radiusMetres": 50
   },
   {
-    "id": "plaza-sobieszewo",
-    "name": "Plaża Sobieszewo",
-    "lat": 54.35451,
-    "lon": 18.83786
+    "id": "elektrykow",
+    "name": "Ulica Elektryków",
+    "lat": 54.36445504957407,
+    "lon": 18.648422429450807,
+    "radiusMetres": 100
+  },
+  {
+    "id": "dworzec-pkp-gdansk-wrzeszcz",
+    "name": "Dworzec PKP Gdańsk Wrzeszcz",
+    "lat": 54.38196810118622,
+    "lon": 18.60496378024655,
+    "radiusMetres": 100
+  },
+  {
+    "id": "baltycka-gdansk",
+    "name": "Galeria Bałtycka",
+    "lat": 54.383112909956026,
+    "lon": 18.600094454464134,
+    "radiusMetres": 120
+  },
+  {
+    "id": "metropolia-gdansk",
+    "name": "Galeria Metropolia",
+    "lat": 54.38268179067115,
+    "lon": 18.60517992275446,
+    "radiusMetres": 100
+  },
+  {
+    "id": "manhattan-gdansk",
+    "name": "Centrum Handlowe Manhattan",
+    "lat": 54.377834124236315,
+    "lon": 18.607434949919785,
+    "radiusMetres": 100
+  },
+  {
+    "id": "politechnika-gdanska",
+    "name": "Politechnika Gdańska",
+    "lat": 54.37227136396003,
+    "lon": 18.616314959141715,
+    "radiusMetres": 250
+  },
+  {
+    "id": "park-akademicki",
+    "name": "Park Akademicki",
+    "lat": 54.371814315032545,
+    "lon": 18.623557175328454,
+    "radiusMetres": 200
+  },
+  {
+    "id": "opera-baltycka",
+    "name": "Opera Bałtycka",
+    "lat": 54.3726,
+    "lon": 18.6254,
+    "radiusMetres": 80
+  },
+  {
+    "id": "stary-manez",
+    "name": "Stary Maneż",
+    "lat": 54.380645687182,
+    "lon": 18.588820626984,
+    "radiusMetres": 70
+  },
+  {
+    "id": "kosciol-najswietszego-serca-pana-jezusa",
+    "name": "Kościół Najświętszego Serca Pana Jezusa",
+    "lat": 54.37987,
+    "lon": 18.60902,
+    "radiusMetres": 60
+  },
+  {
+    "id": "dom-rodzinny-guntera-grassa",
+    "name": "Dom rodzinny Güntera Grassa",
+    "lat": 54.3811,
+    "lon": 18.60283,
+    "radiusMetres": 30
+  },
+  {
+    "id": "dwor-kuzniczki",
+    "name": "Dwór Kuźniczki",
+    "lat": 54.38163,
+    "lon": 18.60882,
+    "radiusMetres": 60
+  },
+  {
+    "id": "skwer-anny-walentynowicz",
+    "name": "Skwer Anny Walentynowicz",
+    "lat": 54.37719,
+    "lon": 18.61146,
+    "radiusMetres": 40
+  },
+  {
+    "id": "kolonia-robotnicza-dr-abegga",
+    "name": "Kolonia robotnicza dr. Abegga",
+    "lat": 54.3856586431811,
+    "lon": 18.5947856761964,
+    "radiusMetres": 80
+  },
+  {
+    "id": "laweczka-guntera-grassa",
+    "name": "Ławeczka Güntera Grassa",
+    "lat": 54.384601,
+    "lon": 18.60982,
+    "radiusMetres": 25
+  },
+  {
+    "id": "park-kuzniczki",
+    "name": "Park Kuźniczki",
+    "lat": 54.38194607309855,
+    "lon": 18.607427146611993,
+    "radiusMetres": 120
+  },
+  {
+    "id": "kosciol-garnizonowy-ss-piotra-i-pawla",
+    "name": "Kościół Garnizonowy śś. Piotra i Pawła",
+    "lat": 54.375004,
+    "lon": 18.609821,
+    "radiusMetres": 60
+  },
+  {
+    "id": "punkt-widokowy-gora-jana",
+    "name": "Punkt widokowy Góra Jana",
+    "lat": 54.373116,
+    "lon": 18.606468,
+    "radiusMetres": 50
+  },
+  {
+    "id": "punkt-widokowy-nad-kaczym-dolkiem",
+    "name": "Punkt widokowy Nad Kaczym Dołkiem",
+    "lat": 54.372102,
+    "lon": 18.603343,
+    "radiusMetres": 40
+  },
+  {
+    "id": "punkt-widokowy-wzgorze-slimak",
+    "name": "Punkt widokowy Wzgórze Ślimak",
+    "lat": 54.369324,
+    "lon": 18.603559,
+    "radiusMetres": 40
+  },
+  {
+    "id": "punkt-widokowy-jaskowa-dolina",
+    "name": "Punkt widokowy Jaśkowa Dolina",
+    "lat": 54.372626,
+    "lon": 18.588922,
+    "radiusMetres": 40
+  },
+  {
+    "id": "punkt-widokowy-botwinka",
+    "name": "Punkt widokowy Botwinka",
+    "lat": 54.380654,
+    "lon": 18.581435,
+    "radiusMetres": 40
+  },
+  {
+    "id": "gora-szubieniczna",
+    "name": "Góra Szubieniczna",
+    "lat": 54.369183,
+    "lon": 18.617393,
+    "radiusMetres": 50
+  },
+  {
+    "id": "dawne-osiedle-policyjne",
+    "name": "Dawne osiedle policyjne",
+    "lat": 54.384115,
+    "lon": 18.585563,
+    "radiusMetres": 100
+  },
+  {
+    "id": "kolonia-fundacji-dr-abegga",
+    "name": "Kolonia Fundacji dr. Abegga",
+    "lat": 54.373135,
+    "lon": 18.618177,
+    "radiusMetres": 80
+  },
+  {
+    "id": "kosciol-sw-andrzeja-boboli",
+    "name": "Kościół św. Andrzeja Boboli",
+    "lat": 54.382973527829236,
+    "lon": 18.619589233648277,
+    "radiusMetres": 50
+  },
+  {
+    "id": "kosciol-sw-stanislawa-biskupa-meczennika",
+    "name": "Kościół św. Stanisława Biskupa Męczennika",
+    "lat": 54.38594591249886,
+    "lon": 18.614408271304796,
+    "radiusMetres": 50
+  },
+  {
+    "id": "dwor-krolewskiej-doliny",
+    "name": "Dwór Królewskiej Doliny",
+    "lat": 54.367601585346144,
+    "lon": 18.610690705153146,
+    "radiusMetres": 50
+  },
+  {
+    "id": "dworzec-pkp-gdansk-oliwa",
+    "name": "Dworzec PKP Gdańsk Oliwa",
+    "lat": 54.409996459318414,
+    "lon": 18.571961948205235,
+    "radiusMetres": 80
+  },
+  {
+    "id": "olivia-star",
+    "name": "Olivia Star",
+    "lat": 54.40368722361615,
+    "lon": 18.570620663872393,
+    "radiusMetres": 60
+  },
+  {
+    "id": "hala-olivia",
+    "name": "Hala Olivia",
+    "lat": 54.401613850982734,
+    "lon": 18.571886666427886,
+    "radiusMetres": 100
+  },
+  {
+    "id": "uniwersytet-gdanski",
+    "name": "Uniwersytet Gdański",
+    "lat": 54.39933775384542,
+    "lon": 18.570217124115146,
+    "radiusMetres": 250
+  },
+  {
+    "id": "katedra-oliwska",
+    "name": "Katedra Oliwska",
+    "lat": 54.41099,
+    "lon": 18.55878,
+    "radiusMetres": 70
+  },
+  {
+    "id": "palac-opatow",
+    "name": "Pałac Opatów w Oliwie",
+    "lat": 54.41109,
+    "lon": 18.56021,
+    "radiusMetres": 60
+  },
+  {
+    "id": "wzgorze-pacholek",
+    "name": "Wzgórze Pachołek",
+    "lat": 54.41165,
+    "lon": 18.55074,
+    "radiusMetres": 150
+  },
+  {
+    "id": "wzgorze-dolina-elfow",
+    "name": "Wzgórze nad Doliną Elfów",
+    "lat": 54.403641,
+    "lon": 18.551836,
+    "radiusMetres": 200
+  },
+  {
+    "id": "muzeum-etnograficzne",
+    "name": "Muzeum Etnograficzne",
+    "lat": 54.41153,
+    "lon": 18.55929,
+    "radiusMetres": 40
+  },
+  {
+    "id": "kosciol-sw-jakuba-w-oliwie",
+    "name": "Kościół św. Jakuba w Oliwie",
+    "lat": 54.411781092473134,
+    "lon": 18.55681047928456,
+    "radiusMetres": 50
+  },
+  {
+    "id": "mlyn-oliwski",
+    "name": "Młyn Oliwski",
+    "lat": 54.409439,
+    "lon": 18.554829,
+    "radiusMetres": 50
+  },
+  {
+    "id": "dom-polski-w-oliwie",
+    "name": "Dom Polski w Oliwie",
+    "lat": 54.40865914548768,
+    "lon": 18.555956833358888,
+    "radiusMetres": 40
+  },
+  {
+    "id": "kuznia-wodna-w-oliwie",
+    "name": "Kuźnia Wodna w Oliwie",
+    "lat": 54.406675652037286,
+    "lon": 18.539042639899858,
+    "radiusMetres": 50
+  },
+  {
+    "id": "punkt-widokowy-gora-schwabego",
+    "name": "Punkt widokowy Góra Schwabego",
+    "lat": 54.403762,
+    "lon": 18.530609,
+    "radiusMetres": 40
+  },
+  {
+    "id": "wzgorze-bitwy-oliwskie",
+    "name": "Wzgórze Bitwy Oliwskie",
+    "lat": 54.412896,
+    "lon": 18.550884,
+    "radiusMetres": 40
+  },
+  {
+    "id": "pomnik-mrongowiusza",
+    "name": "Pomnik Mrongowiusza",
+    "lat": 54.3966889960363,
+    "lon": 18.573956598714393,
+    "radiusMetres": 30
+  },
+  {
+    "id": "willa-jodlowa",
+    "name": "Willa Jodłowa",
+    "lat": 54.41211193442192,
+    "lon": 18.567800406024897,
+    "radiusMetres": 40
+  },
+  {
+    "id": "oliwski-ratusz-kultury",
+    "name": "Oliwski Ratusz Kultury",
+    "lat": 54.4089037,
+    "lon": 18.5591546,
+    "radiusMetres": 40
+  },
+  {
+    "id": "rybakowka-dolina-radosci",
+    "name": "Rybakówka (Dolina Radości)",
+    "lat": 54.396938,
+    "lon": 18.52183,
+    "radiusMetres": 60
+  },
+  {
+    "id": "park-oliwski",
+    "name": "Park Oliwski",
+    "lat": 54.411344,
+    "lon": 18.562474,
+    "radiusMetres": 175
+  },
+  {
+    "id": "westerplatte-pomnik",
+    "name": "Pomnik na Westerplatte",
+    "lat": 54.40603,
+    "lon": 18.67599,
+    "radiusMetres": 80
   }
 ]

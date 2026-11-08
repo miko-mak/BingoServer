@@ -13,11 +13,13 @@ public class Place {
     private final String name;
     private final double lat;
     private final double lon;
+    private final int radiusMetres;
 
-    public Place(String name, double lat, double lon) {
+    public Place(String name, double lat, double lon, int radiusMetres) {
         this.name = name;
         this.lat = lat;
         this.lon = lon;
+        this.radiusMetres = radiusMetres;
     }
 
     public String getName() {
@@ -30,5 +32,9 @@ public class Place {
 
     public double getLon() {
         return this.lon;
+    }
+
+    public int getRadiusMetres() {
+        return this.radiusMetres;
     }
 }
