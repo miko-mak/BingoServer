@@ -7,7 +7,7 @@ import java.util.*;
 
 
 public final class BoardGenerator {
-    private final static int BOARD_SIZE = 16;
+    private final static int BOARD_SIZE = 9;
 
     public static Board generateBoard(LocalDate date, List<Place> places) {
         if (places.size() < BOARD_SIZE) {
